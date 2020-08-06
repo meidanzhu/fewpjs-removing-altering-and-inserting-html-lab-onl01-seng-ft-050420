@@ -1,5 +1,4 @@
- let main = document.querySelector('main')
- main.remove();
+main.remove();
 
 let newHeader = document.createElement('h1')
 newHeader.id = "victory"
